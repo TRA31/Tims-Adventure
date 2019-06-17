@@ -1,2 +1,3 @@
-# Tims-Adventure
-A Mario (Arcade adventure ) type game where the objective is to reach a certain place. I do not own any of the art work all of these are free open source art work which I have used for Project purpose only. Any one is free to use any of the contents of my project.
+# Tims Adventure A Java Game
+Well for some reason I couldnt upload the jar file here so here is the google link :) https://drive.google.com/open?id=0ByOauQxtn1usaGJpRktVcElMVEU
+As for the controls W for Jump A for Left S for Down and D for Right
